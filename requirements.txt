@@ -1,2 +1,2 @@
-django==3.0.6
+django==3.0.14
 python==3.8.3
